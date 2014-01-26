@@ -1,4 +1,4 @@
 delete-repo
 ===========
 
-This script allows me to delete repositories with the GitHub API
+This script allows users to delete repositories with the GitHub API
